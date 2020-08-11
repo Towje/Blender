@@ -371,7 +371,7 @@
         vertex_bevel="#0011ff"
         vertex_unreferenced="#0003ff"
         edge_select="#ff2676"
-        edge_seam="#28e5c6"
+        edge_seam="#ff0072"
         edge_sharp="#00fffd"
         edge_crease="#ca1379"
         edge_bevel="#551bd8"
@@ -1055,9 +1055,6 @@
         info_property_text="#ffffff"
         info_operator="#3ace87ff"
         info_operator_text="#ffffff"
-        info_report_error="#990000"
-        info_report_warning="#b36a00"
-        info_report_info="#1d4383"
         >
         <space>
           <ThemeSpaceGeneric
