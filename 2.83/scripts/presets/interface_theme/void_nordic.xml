@@ -359,7 +359,7 @@
         gp_vertex_size="10"
         text_grease_pencil="#ebcb8b"
         object_selected="#d08770"
-        object_active="#b48ead"
+        object_active="#81a1c1"
         text_keyframe="#ebcb8b"
         camera="#5e81ac"
         empty="#5e81ac"
@@ -1001,7 +1001,7 @@
       <ThemeOutliner
         match="#a3be8c"
         selected_highlight="#4c566a"
-        active="#a3be8c"
+        active="#6b7753"
         selected_object="#d08770"
         active_object="#1f252e"
         edited_object="#8fbcbb66"
